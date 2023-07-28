@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naybyal
-- 👀 I’m interested in AI/ML, Web Development and DSA
+- 👀 I’m interested in App Development, Web Development and DSA
 - 🌱 I’m currently learning React.js, Python and GoLang
 
 

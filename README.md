@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naybyal
-- 👀 I’m interested in App Development, Web Development and DSA
-- 🌱 I’m currently learning React.js, Python and GoLang
+- 👀 I’m interested in Web and App development, DSA, Machine Learning and Mathematics.
+- 🌱 I’m currently learning React.js, Python and Kotlin.
 
 
 <!---

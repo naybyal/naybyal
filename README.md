@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naybyal
-- 👀 I’m interested in Web and App development, DSA, Machine Learning and Mathematics.
+- 👀 I’m interested in Web development, Competitive Programming, Machine Learning and Mathematics.
 - 🌱 I’m currently learning React.js, Python and Kotlin.
 
 

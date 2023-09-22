@@ -45,4 +45,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <h2>Stats</h2>
-<img src="https://www.codewars.com/users/naybyal/badges/large" alt="CodeWars stats">
+<a href="https://www.codewars.com/users/naybyal"><img src="https://www.codewars.com/users/naybyal/badges/large" alt="CodeWars stats"></a>

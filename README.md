@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.codewars.com/users/naybyal" target="_blank"><img src="https://www.codewars.com/users/naybyal/badges/large" alt="CodeWars stats"></a>
   
 </div>
-![Leetcode Stats](https://leetcard.jacoblin.cool/naybyal?theme=dark&font=Roboto%20Mono&ext=heatmap)
+<a href="https://leetcard.jacoblin.cool/naybyal?theme=dark&font=Roboto%20Mono&ext=heatmap"></a>

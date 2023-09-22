@@ -47,5 +47,6 @@ You can click the Preview link to take a look at your changes.
 <h2>Stats</h2>
 <div>
   <a href="https://www.codewars.com/users/naybyal" target="_blank"><img src="https://www.codewars.com/users/naybyal/badges/large" alt="CodeWars stats"></a>
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/naybyal?theme=dark&font=Roboto%20Mono&ext=heatmap)
+  
 </div>
+![Leetcode Stats](https://leetcard.jacoblin.cool/naybyal?theme=dark&font=Roboto%20Mono&ext=heatmap)

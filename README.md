@@ -47,11 +47,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2>Stats</h2>
-<div>
+<div align='center'>
   <a href="https://www.codewars.com/users/naybyal" target="_blank"><img src="https://www.codewars.com/users/naybyal/badges/large" alt="CodeWars stats"></a>
-  
+  <a href="https://leetcode.com/naybyal"><img src="https://leetcard.jacoblin.cool/naybyal?theme=dark&font=Roboto%20Mono&ext=heatmap" width="350px"></a>
 </div>
-<a href="https://leetcode.com/naybyal"><img src="https://leetcard.jacoblin.cool/naybyal?theme=dark&font=Roboto%20Mono&ext=heatmap" width="350px"></a>
+
 <br><br>
 
 <h2>Hacktoberfest 2023 Badges</h2>

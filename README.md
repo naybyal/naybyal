@@ -56,4 +56,4 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 <h2>Hacktoberfest 2023 Badges</h2>
-<div align='center'>[![An image of @naybyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naybyal)](https://holopin.io/@naybyal)</div>
+<div align='center'>[![An image of @naybyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naybyal)](https://holopin.io/@naybyal))</div>

@@ -53,4 +53,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 <a href="https://leetcode.com/naybyal"><img src="https://leetcard.jacoblin.cool/naybyal?theme=dark&font=Roboto%20Mono&ext=heatmap" width="350px"></a>
 <br>
-[![An image of @naybyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naybyal)(https://holopin.io/@naybyal)]
+[![An image of @naybyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naybyal)](https://holopin.io/@naybyal)

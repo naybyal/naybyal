@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center" style="align-items: center; justify-content: center">
   <a href="https://leetcode.com/naybyal"><img src="https://leetcard.jacoblin.cool/naybyal?theme=dark&font=Roboto%20Mono&ext=heatmap" width="350px"></a>
   <br><br>
-  <a href="https://www.codewars.com/users/naybyal" target="_blank"><img src="https://www.codewars.com/users/naybyal/badges/small" alt="CodeWars stats"></a> 
+  <a href="https://www.codewars.com/users/naybyal" target="_blank"><img src="https://www.codewars.com/users/naybyal/badges/large" alt="CodeWars stats"></a> 
 </div>
 
 <br><br>

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naybyal
 - 👀 I’m interested in <b>Web Development</b>, <b>Competitive Programming</b> and Mathematics.
-- 🌱 I’m currently learning React.js and Python.
+- 🌱 I’m currently learning React.js.
 
 
 <!---

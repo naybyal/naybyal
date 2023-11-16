@@ -60,3 +60,6 @@ You can click the Preview link to take a look at your changes.
 <h2>Holopin</h2>
 
   [![An image of @naybyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/naybyal)](https://holopin.io/@naybyal)
+
+<h2>DevCard</h2>
+<a href="https://app.daily.dev/nabielahammed"><img src="https://api.daily.dev/devcards/ee2796f3d817429aafb962ef222755a3.png?r=np7" width="400" alt="Nabiel Ahammed's Dev Card"/></a>

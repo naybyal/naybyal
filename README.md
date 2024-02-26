@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabiel!
-- 👀 I’m interested in <b>Full Stack Web Development</b>, <b>Competitive Programming</b> and Mathematics.
-- 🌱 I’m currently learning React.js and MongoDB.
+- 👀 I’m interested in <b>Full Stack Web/App Development</b>, <b>Competitive Programming</b> and Mathematics.
+<!--- - 🌱 I’m currently learning React.js and MongoDB. --->
 
 
 <!---

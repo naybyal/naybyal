@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nabiel.
 - 👨‍🎓 I'm a 3rd year CSE student at University College of Engineering, Idukki.
-- 👀 <b>Full Stack Engineering</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus) are my passions.
+- 👀 <b>Full-stack Engineering</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus) are my passions.
 - 🌱 I’m currently developing a Full-stack Admin Dashboard using Next.js, PostgresSQL, TailwindCSS and Prisma ORM.
 - 📫 If you have any app ideas, feel free to discuss with me on LinkedIn.
 <!---

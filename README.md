@@ -2,7 +2,7 @@
 - 👨‍🎓 I'm a 3rd year CSE student at University College of Engineering, Idukki.
 - 👀 <b>Full-stack Engineering</b>, <b>2D Game Development</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus) are my passions.
 - 🌱 I’m currently developing a Full-stack Admin Dashboard using Next.js, PostgresSQL, TailwindCSS and Prisma ORM.
-- 📫 If you have any app ideas, feel free to discuss with me on LinkedIn. I really love working on wild ideas!
+- 📫 If you have any app ideas, feel free to discuss with me on LinkedIn. I really love working on wild stuff!
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nabiel.
+- 👋 Greetings!
 - 👨‍🎓 I'm a 3rd year CSE student at University College of Engineering, Idukki.
 - 👀 <b>Full-stack Engineering</b>, <b>2D Game Development</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus) are my passions.
 - 🌱 I’m currently developing a Finance/Staff Management Dashboard using Next.js, PostgreSQL, TailwindCSS and Prisma ORM.

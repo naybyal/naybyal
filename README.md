@@ -1,13 +1,16 @@
 - 👋 Greetings!
-- 👨‍🎓 I'm a 3rd year CSE student at University College of Engineering, Idukki.
-- 👀 <b>Full-stack Engineering</b>, <b>2D Game Development</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus) are my passions.
-- 🌱 I’m currently developing a Finance/Staff Management Dashboard using Next.js, TypeScript, PostgreSQL, TailwindCSS and Prisma ORM.
-- 📫 If you have any app ideas, feel free to discuss with me on LinkedIn. I really love working on wild stuff!
+- 👨‍🎓 I'm a third-year CSE student at University College of Engineering, Idukki.
+- 👀 Enterprise Application Engineering, Music, and Mathematics are my passions.
+- 🌱 Currently developing a Finance/Staff Management Application using Next.js, TypeScript, PostgreSQL, TailwindCSS, and Prisma ORM.
+- 📫 If you have any app ideas, feel free to discuss them with me on LinkedIn. I really love working on wild stuff!
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 naybyal/naybyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+ <b>2D Game Development</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus)
+
 --->
 <div>
   <h2>Tech Stack</h2>

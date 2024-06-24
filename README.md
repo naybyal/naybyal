@@ -1,8 +1,8 @@
--👋  Greetings! 
--👨‍🎓  I'm a third-year CSE student at University College of Engineering, Idukki.
--👀  Enterprise Application Engineering, Music, and Mathematics are my passions.
--🌱  Currently developing a Finance/Staff Management Application using Next.js, TypeScript, PostgreSQL, TailwindCSS, and Prisma ORM.
--📫  If you have any app ideas, feel free to discuss them with me on LinkedIn. I really love working on wild stuff!
+- 👋  Greetings! 
+- 👨‍🎓  I'm a third-year CSE student at University College of Engineering, Idukki.
+- 👀  Enterprise Application Engineering, Music, and Mathematics are my passions.
+- 🌱  Currently developing a Finance/Staff Management Application using Next.js, TypeScript, PostgreSQL, TailwindCSS, and Prisma ORM.
+- 📫  If you have any app ideas, feel free to discuss them with me on LinkedIn. I really love working on wild stuff!
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

@@ -1,7 +1,7 @@
 - 👋 Greetings!
 - 👨‍🎓 I'm a 3rd year CSE student at University College of Engineering, Idukki.
 - 👀 <b>Full-stack Engineering</b>, <b>2D Game Development</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus) are my passions.
-- 🌱 I’m currently developing a Finance/Staff Management Dashboard using Next.js, PostgreSQL, TailwindCSS and Prisma ORM.
+- 🌱 I’m currently developing a Finance/Staff Management Dashboard using Next.js, TypeScript, PostgreSQL, TailwindCSS and Prisma ORM.
 - 📫 If you have any app ideas, feel free to discuss with me on LinkedIn. I really love working on wild stuff!
 <!---
 - 💞️ I’m looking to collaborate on ...

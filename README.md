@@ -1,6 +1,6 @@
 - 👋  Greetings! 
 - 👨‍🎓  I'm a final year CSE student at University College of Engineering, Idukki.
-- 👀  Enterprise Application Engineering, Music, and Mathematics are my passions.
+- 👀  Enterprise Application Engineering, Systems Programming, Music and Mathematics are my passions.
 - 🌱  Currently building a Finance/Staff Management Application using Next.js, TypeScript, PostgreSQL, and TailwindCSS.
 - 📫  If you have any app ideas, feel free to discuss them with me on LinkedIn. I really love working on wild stuff!
 <!---

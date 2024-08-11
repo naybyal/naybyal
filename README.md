@@ -1,6 +1,6 @@
 - 👋  Greetings! 
 - 👨‍🎓  I'm a final year CSE student at University College of Engineering, Idukki.
-- 👀  Have keen interest in Enterprise Application Engineering, System Programming, Music and Mathematics.
+- 👀  I have a keen interest in Enterprise Application Engineering, System Programming, Music and Mathematics.
 - 🌱  Currently building a SaaS Dashboard using Next.js, TypeScript, PostgreSQL, and TailwindCSS.
 - 📫  If you have any app ideas, feel free to discuss them with me on LinkedIn. I really love working on wild stuff!
 <!---

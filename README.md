@@ -1,7 +1,7 @@
 - 👋  Greetings! 
 - 👨‍🎓  I'm a final year CSE student at University College of Engineering, Idukki.
 - 👀  I have a keen interest in Enterprise Application Engineering, System Programming, Music and Mathematics.
-- 🌱  Currently building 'solidServe', an Accounting SaaS using Next.js, TypeScript, PostgreSQL, and TailwindCSS.
+- 🌱  Currently building <b>'solidServe'</b>, an Accounting SaaS using Next.js, TypeScript, PostgreSQL, and TailwindCSS.
 - 📫  If you have any app ideas, feel free to discuss them with me on LinkedIn. I really love working on wild stuff!
 <!---
 - 💞️ I’m looking to collaborate on ...

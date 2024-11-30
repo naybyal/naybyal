@@ -28,23 +28,26 @@ You can click the Preview link to take a look at your changes.
  <b>2D Game Development</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus)
 
 --->
-# 👋 Hello!
+# 👋 Hi, I'm Nabiel Ahammed
 
 ### About Me  
 🎓 **Final Year CSE Student** at *University College of Engineering, Idukki*  
-🔍 **Areas of Interest:**  
+I’m passionate about crafting efficient, scalable software solutions and solving real-world technical problems.
+
+### What I Do  
 - **Software Architecture & Engineering**  
 - **System Programming**  
 - **Mathematics** 🧮  
 - **Music** 🎵  
 
-### Current Work  
-🌱 **Building [solidServe](#)** — A next-generation Accounting SaaS  
+### Currently Building  
+🌱 **[solidServe](#)** — A next-gen Accounting SaaS  
 - **Tech Stack:** Next.js, TypeScript, PostgreSQL, and TailwindCSS  
 
 ### Let’s Connect!  
-🚀 Got a groundbreaking app idea? Let’s bring it to life!  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nabiel-ahammed) — I’m always excited to collaborate on innovative projects.
+🚀 Have an exciting idea or project? Let’s collaborate and make it happen.  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nabiel-ahammed).
+
 <!---<h2>Stats</h2> -->
 <div align="center" style="align-items: center; justify-content: center">
 <!--   <a href="https://leetcode.com/naybyal"><img src="https://leetcard.jacoblin.cool/naybyal?theme=dark&font=Roboto%20Mono&ext=heatmap" width="350px"></a> -->

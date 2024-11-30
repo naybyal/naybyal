@@ -28,25 +28,23 @@ You can click the Preview link to take a look at your changes.
  <b>2D Game Development</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus)
 
 --->
-# 👋 Hello there!
+# 👋 Hi there!
 
 ### About Me  
-🎓 **Final Year CSE Student**  
-*University College of Engineering, Idukki*  
+🎓 **Final Year CSE Student** at *University College of Engineering, Idukki*  
+🔍 **Passionate About:**  
+- **Enterprise Application Engineering**  
+- **System Programming**  
+- **Music** 🎵  
+- **Mathematics** 🧮  
 
-👀 **Interests:**  
-- Enterprise Application Engineering  
-- System Programming  
-- Music 🎵  
-- Mathematics 🧮  
-
-🌱 **Currently Building:**  
-**[solidServe](#)** — an Accounting SaaS built with:  
+### Current Project  
+🌱 **Building [solidServe](#)** — A powerful Accounting SaaS  
 - **Tech Stack:** Next.js, TypeScript, PostgreSQL, and TailwindCSS  
 
-📫 **Let's Collaborate:**  
-Got a wild app idea? Let's make it happen!  
-Connect with me on [LinkedIn](https://linkedin.com/in/nabiel-ahammed) — I'd love to brainstorm with you.
+### Let’s Connect!  
+🚀 Have a cool app idea? Let’s bring it to life!  
+Feel free to reach out on [LinkedIn](https://linkedin.com/in/nabiel-ahammed) — I love collaborating on innovative projects.  
 
 <div>
   <h2>Tech Stack</h2>

@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
  <b>2D Game Development</b>, <b>Competitive Programming</b> and Mathematics (esp. Calculus)
 
 --->
-# 👋 Hi, I'm Nabiel Ahammed
+# 👋 Greetings!
 
 ### About Me  
 🎓 **Final Year CSE Student** at *University College of Engineering, Idukki*  

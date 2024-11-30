@@ -45,7 +45,7 @@ I’m passionate about crafting efficient, scalable software solutions and solvi
 - **Tech Stack:** Next.js, TypeScript, PostgreSQL, and TailwindCSS  
 
 ### Let’s Connect!  
-🚀 Have an exciting idea or project? Let’s collaborate and make it happen.  
+📫 Have an exciting idea or project? Let’s collaborate and make it happen.  
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nabiel-ahammed).
 
 <!---<h2>Stats</h2> -->

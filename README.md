@@ -1,75 +1,55 @@
-# 👋 Greetings!
+# Hi, I'm Nabiel 👋  
 
-## About Me  
-🎓 **Final Year CSE Student** at *University College of Engineering, Idukki*  
-💡 Passionate about **Enterprise Application Engineering**, **System Programming**, **Music**, and **Mathematics**.  
-🔧 I enjoy building scalable, efficient software solutions to solve real-world challenges.
+🚀 **Full-Stack Developer** | 🔐 **System Programmer** | 🎵 **Music Enthusiast**  
 
----
-
-## 🛠 What I’m Currently Building  
-**[solidServe](#)** — A Next-Gen Accounting SaaS  
-- **Tech Stack:** Next.js, TypeScript, PostgreSQL, TailwindCSS  
-- Focused on performance, scalability, and modern design principles.
+Crafting scalable enterprise applications and exploring the depths of system-level programming.  
 
 ---
 
-## 🧰 Tech Stack & Tools  
+### ⚡ Tech Stack  
 
-### Programming Languages  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="http://rust-lang.org/logos/rust-logo-128x128.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</p>
+**Languages:**  
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 
-### Frameworks & Libraries  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-</p>
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 
-### Databases  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-</p>
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
-### Tools  
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
-</p>
+**Tools:**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
 ---
 
-## 🌟 Let’s Connect!  
-📫 Have a groundbreaking idea? I’d love to hear it!  
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/nabiel-ahammed) or explore my work here on GitHub.
+### 🔨 Current Project  
+
+🌟 **solidServe**  
+An **Accounting SaaS** built with:  
+- **Next.js + TypeScript** for modern frontend  
+- **PostgreSQL + Prisma** for seamless database interactions  
+- **TailwindCSS** for minimalistic UI design  
 
 ---
 
-## 📊 GitHub Stats  
+### 📈 GitHub Stats  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naybyal&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybyal&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naybyal&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybyal&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 ---
 
-## 👾 Fun Projects & Hobbies  
-🎮 2D Game Development  
-🏅 Competitive Programming  
-🧮 Exploring advanced topics in Calculus  
-🎵 Creating & enjoying music  
+### 🌐 Connect  
 
----
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/nabiel-ahammed)  

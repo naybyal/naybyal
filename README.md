@@ -116,3 +116,4 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nabiel-ahammed
  <h2>DevCard</h2>
 <a href="https://app.daily.dev/nabielahammed"><img src="https://api.daily.dev/devcards/ee2796f3d817429aafb962ef222755a3.png?r=np7" width="400" alt="Nabiel Ahammed's Dev Card"/></a>
 --->
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naybyal&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)

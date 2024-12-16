@@ -47,13 +47,13 @@ I enjoy crafting scalable software, solving technical challenges, and exploring 
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naybyal&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybyal&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naybyal&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybyal&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" width="45%" />
 </div>
 
 ---
 
-## 🌐 Connect  
+## 🌐 Let’s Connect  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nabiel-ahammed">

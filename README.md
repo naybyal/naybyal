@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nabiel  
 
-**Final Year CSE Student** | **Full-Stack Developer** | **Systems Programmer**  
+**Final Year CSE Student** | **Software Developer** 
 I love crafting scalable software, solving technical challenges, and exploring system-level programming.
 
 ## Tech Stack  

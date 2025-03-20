@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Nabiel  
 
 **Final Year CSE Student** | **Software Developer** 
+
 I really enjoy building apps that are not just functional but also efficient and scalable. I like digging into the technical side of things, figuring out how to make everything work smoothly under the hood. Whether it's working on low-level system programming, designing clean APIs, or optimizing performance, I get a kick out of solving those tricky problems. I like knowing that what I’m building can handle real-world use without breaking down. Plus, it’s satisfying to see something I’ve built work seamlessly and actually help people.
 
 ## Tech Stack  

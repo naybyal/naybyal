@@ -2,7 +2,7 @@
 
 **Final Year CSE Student** | **Software Developer**
 
-Hey there! I'm Nabiel – a passionate coder who loves building apps that are not only functional but also efficient and scalable. Whether it's diving into low-level system programming, crafting clean APIs, or optimizing performance, I enjoy every bit of the challenge. Nothing beats the thrill of seeing a well-crafted solution work seamlessly in the real world!
+Hey there! I'm Nabiel – an indiehacker and a solopreneur, who loves building apps that are not only functional but also efficient and scalable. Whether it's diving into low-level system programming, building clean APIs, or optimizing performance, I enjoy every bit of the challenge. Nothing beats the thrill of seeing a well-crafted solution work seamlessly in the real world!
 
 ## Tech Stack  
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;

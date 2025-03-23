@@ -4,7 +4,6 @@
   <h4>Final Year CSE Student | Software Developer</h4>
 </div>
 
-
 Hey there! I'm Nabiel – an indiehacker and a solopreneur, who loves building apps that are not only functional but also efficient and scalable. Whether it's diving into low-level system programming, building clean APIs, or optimizing performance, I enjoy every bit of the challenge. Nothing beats the thrill of seeing a well-crafted solution work seamlessly in the real world!
 
 ## Tech Stack  
@@ -23,10 +22,12 @@ Hey there! I'm Nabiel – an indiehacker and a solopreneur, who loves building a
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+
 <!---
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
 --->
+
 ## Tools  
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
@@ -37,5 +38,8 @@ Hey there! I'm Nabiel – an indiehacker and a solopreneur, who loves building a
 ## Let's Connect!  
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nabiel-ahammed) if you have any exciting ideas or want to collaborate on projects. I'm always open to discussing new challenges and working on innovative solutions!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naybyal&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=naybyal&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>

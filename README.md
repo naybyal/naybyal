@@ -37,5 +37,5 @@ Hey there! I'm Nabiel – an indiehacker and a solopreneur, who loves building a
 ## Let's Connect!  
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nabiel-ahammed) if you have any exciting ideas or want to collaborate on projects. I'm always open to discussing new challenges and working on innovative solutions!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naybyal&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naybyal&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 

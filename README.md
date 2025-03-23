@@ -25,15 +25,14 @@ Hey there! I'm Nabiel – an **indiehacker** and a **solopreneur**, who loves bu
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
 
-<!---
---->
-
 ## Tools  
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+<!---
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm IDE" alt="WebStorm IDE" width="40" height="40"/>&nbsp;
+--->
 
 ## Let's Connect!  
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nabiel-ahammed) if you have any exciting ideas or want to collaborate on projects. I'm always open to discussing new challenges and working on innovative solutions!

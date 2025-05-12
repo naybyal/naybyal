@@ -45,7 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nabiel-ah
 
 <div align='center' style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=naybyal&theme=github-dark-blue" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=naybyal&theme=github-dark-blue" alt="GitHub Streak"/>
   </a>
 </div>
 

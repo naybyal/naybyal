@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nabiel  
 
 <div align='center'>
-  <h4>Software Engineer w/ Low-level programming endeavours</h4>
+  <h4>Software Engineer w/ Low-level Programming Endeavours</h4>
 </div>
 
 Hey there! I'm Nabiel – an **indiehacker** and a **solopreneur**, who loves building apps that are not only functional but also efficient and scalable. Whether it's diving into low-level system programming, building clean APIs, or optimizing performance, I enjoy every bit of the challenge. Nothing beats the thrill of seeing a well-crafted solution work seamlessly in the real world!

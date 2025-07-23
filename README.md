@@ -24,7 +24,7 @@ Indie hacker & solopreneur building functional, efficient, and scalable applicat
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="36" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="36" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="Zustand" width="36" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJS" alt="NestJS" width="36" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="36" />&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="Django" alt="Django" width="36" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original.svg" title="Tauri" alt="Tauri" width="36" />
 </div>

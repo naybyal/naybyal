@@ -1,7 +1,7 @@
 # Hi, I'm Nabiel
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naybyak&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=naybyal&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 I'm an indiehacker and solopreneur who builds functional, efficient, and scalable applications. My work spans from low-level system programming to full-stack web development. I particularly enjoy tackling performance optimization challenges and architecting clean, maintainable solutions.
@@ -86,19 +86,13 @@ Always open to interesting technical challenges and collaboration opportunities.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naybyak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybyak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naybyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naybyak&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naybyal&theme=tokyonight&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
-## Connect
-
-- GitHub: [@naybyak](https://github.com/naybyak)
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Add your professional email]
-- Website: [Add your portfolio/website]
 
 ---
 

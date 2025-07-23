@@ -1,4 +1,4 @@
-# Hi, I'm Nabiel
+# Greetings! I'm Nabiel.
 
 **Indie hacker & solopreneur** building functional, efficient, and scalable applications.  
 Expertise spans low-level systems to full-stack web with strong focus on **performance optimization** and **clean architecture**.

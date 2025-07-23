@@ -1,13 +1,13 @@
 # 👋 Greetings! I'm Nabiel.  
 
-- Independent software developer and solopreneur building scalable, efficient applications
+- Independent software developer and solopreneur building scalable and efficient applications
 - Skilled in full-stack development with strong control over both frontend and backend systems
 - Works comfortably at low levels of the stack, with a focus on performance and system design
 - Oversees the complete product lifecycle, from concept and architecture to deployment and iteration
 
 ## Tech Stack  
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C++" alt="C++" width="32" height="32"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C" alt="C" width="32" height="32"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="32" height="32"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32"/>&nbsp;

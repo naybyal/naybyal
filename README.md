@@ -4,7 +4,7 @@ Indie hacker & solopreneur building functional, efficient, and scalable applicat
 
 ---
 
-## Tech Stack
+## Languages
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="36" />&nbsp;

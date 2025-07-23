@@ -2,10 +2,10 @@
 
 ## About Me
 
-• Independent software developer and solopreneur building scalable, efficient applications
-• Skilled in full-stack development with strong control over both frontend and backend systems
-• Works comfortably at low levels of the stack, with a focus on performance and system design
-• Oversees the complete product lifecycle, from concept and architecture to deployment and iteration
+- Independent software developer and solopreneur building scalable, efficient applications
+- Skilled in full-stack development with strong control over both frontend and backend systems
+- Works comfortably at low levels of the stack, with a focus on performance and system design
+- Oversees the complete product lifecycle, from concept and architecture to deployment and iteration
 
 ## Tech Stack  
 <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C++" alt="C++" width="32" height="32"/>&nbsp;

@@ -1,7 +1,5 @@
 # 👋 Greetings! I'm Nabiel.  
 
-## About Me
-
 - Independent software developer and solopreneur building scalable, efficient applications
 - Skilled in full-stack development with strong control over both frontend and backend systems
 - Works comfortably at low levels of the stack, with a focus on performance and system design

@@ -25,6 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg" title="Redis" alt="Redis" width="32" height="32"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="PrismaORM" alt="PrismaORM" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="32" height="32"/>&nbsp;
 
@@ -33,6 +34,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="32" height="32"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Light.svg" title="NeoVim" alt="NeoVim" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="32" height="32"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="32" height="32"/>&nbsp;
 <img src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-icon-64x64.png" title="DBeaver" alt="DBeaver" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="32" height="32"/>&nbsp;

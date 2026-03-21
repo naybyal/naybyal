@@ -12,7 +12,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32"/>&nbsp;
-<img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-64x64.png" title="Rust" alt="Rust" width="32" height="32"/>&nbsp;
+<img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rusty/rust-logo-512x512.png" title="Rust" alt="Rust" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="32" height="32"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="32" height="32"/>&nbsp;

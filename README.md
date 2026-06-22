@@ -1,4 +1,4 @@
-# 👋 Greetings! I'm Nabiel.  
+# Greetings! I'm Nabiel.  
  
 - Founder @ Cirranex
 

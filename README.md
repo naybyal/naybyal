@@ -1,9 +1,6 @@
 # 👋 Greetings! I'm Nabiel.  
-
-- Independent software engineer and solopreneur building scalable and efficient applications
-- Skilled in full-stack development with strong control over both frontend and backend systems
-- Works comfortably at low levels of the stack, with a focus on performance and system design
-- Oversees the complete product lifecycle, from concept and architecture to deployment and iteration
+ 
+- Founder @ Cirranex
 
 ## Tech Stack  
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="32" height="32"/>&nbsp;
